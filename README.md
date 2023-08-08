@@ -8,7 +8,7 @@
 
 * CSS
 
-* Flex-box
+* JavaScript
 
 ## Feito por:
 

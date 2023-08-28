@@ -168,7 +168,7 @@ body {
     }
 
 .formulario{
-    width: 512px;
+    width: auto;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -194,4 +194,14 @@ body {
     border: none;
     border-radius: 12px;
 }
+}
+@media (max-width: 800px ){
+
+    .cabecalho__menu{
+        display: flex;
+        gap:50px;
+        flex-direction: column;
+        text-align: center;
+    }
+
 }
